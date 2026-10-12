@@ -1,4 +1,4 @@
-Firmware for the Masterpiece!
+Firmware for the tacTile!
 www.hop-sounds.com
 
 Daisy Seed handles audio + analogReads

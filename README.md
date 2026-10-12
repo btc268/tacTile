@@ -7,4 +7,4 @@ Daisy Seed handles audio + analogReads
 ATtiny1616 drives WS2812 LEDs; recieves commands from Seed over i2c
 (https://www.adafruit.com/product/5690)
 
-ESP32 drives PN532 NFC reader and optional external i2c sensor (6-DoF IMU, in this case); communicates with Seed over Serial
+ESP32 drives PN532 NFC reader + CV/Midi Expansion Unit; communicates with Seed over Serial

@@ -1,4 +1,4 @@
-Firmware for tacTile!
+firmware + enlosure + pcb for tacTile!
 www.hop-sounds.com
 
 Daisy Seed handles audio + analogReads
